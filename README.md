@@ -2,9 +2,7 @@
 
 <div align="center">
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Business+Decisions+📊;SQL+%7C+Power+BI+%7C+Python+%7C+PostgreSQL;Building+Dashboards+that+Actually+Matter+🚀;Open+to+Data+Analyst+%26+BI+Roles+💼" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Business+Decisions+📊;SQL+%7C+Power+BI+%7C+Python+%7C+PostgreSQL;Building+Dashboards+that+Actually+Matter+🚀;Open+to+Data+Analyst+%26+BI+Roles+💼" alt="Typing SVG" />
 
 <br/><br/>
 
