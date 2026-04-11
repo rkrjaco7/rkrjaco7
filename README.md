@@ -1,9 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Hey,%20I'm%20Raja%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=20&animation=fadeIn" />
 
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Business+Decisions+📊;SQL+%7C+Power+BI+%7C+Python+%7C+PostgreSQL;Building+Dashboards+that+Actually+Matter+🚀;Open+to+Data+Analyst+%26+BI+Roles+💼" alt="Typing SVG" />
-
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
