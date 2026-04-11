@@ -2,8 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight
-  workflow_dispatch:        # lets you run it manually too
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write  # 👈 THIS was missing — allows the action to push
 
 jobs:
   generate:
@@ -13,7 +16,8 @@ jobs:
         with:
           github_user_name: rkrjaco7
           outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
+
+      - uses: crazy-max/ghaction-github-pages@v4   # 👈 v3 → v4 (fixes Node.js warning)
         with:
           target_branch: output
           build_dir: dist
